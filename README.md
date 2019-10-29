@@ -133,7 +133,7 @@ https://www.udemy.com/course/nodejs-api-masterclass/
 <br/>
 
 ## 9. Bootcamp Reviews & Ratings
-[Free Download Node.js API Masterclass With Express & MongoDB](https://nodejs-api-masterclass.netlify.com/)
+[Free Download Bootcamp Reviews & Ratings](https://nodejs-api-masterclass.netlify.com/tags/section9)
 <br/>
 
 ### 1. Review Model & Get Reviews
@@ -145,7 +145,7 @@ https://www.udemy.com/course/nodejs-api-masterclass/
 <br/>
 
 ## 10. API Security
-[Free Download Node.js API Masterclass With Express & MongoDB](https://nodejs-api-masterclass.netlify.com/)
+[Free Download API Security](https://nodejs-api-masterclass.netlify.com/tags/section10)
 <br/>
 
 ### 1. Logout To Clear Token Cookie
@@ -156,7 +156,7 @@ https://www.udemy.com/course/nodejs-api-masterclass/
 <br/>
 
 ## 11. Documentation & Deploy
-[Free Download Node.js API Masterclass With Express & MongoDB](https://nodejs-api-masterclass.netlify.com/)
+[Free Download Documentation & Deploy](https://nodejs-api-masterclass.netlify.com/tags/section11)
 <br/>
 
 ### 1. Documentation With Postman & Docgen
